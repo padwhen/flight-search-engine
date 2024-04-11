@@ -8,5 +8,7 @@ With the Flight Search Engine, users can initiate searches directly from their c
 ``npm install``
 
 ## Video Demo
-https://github.com/padwhen/flight-search-engine/assets/123895854/df858924-70e4-48a4-9a5d-d4d574335bb3
+
+https://github.com/padwhen/flight-search-engine/assets/123895854/523a36dd-0c19-44bc-aac8-b107b6242281
+
 
